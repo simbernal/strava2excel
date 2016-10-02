@@ -1,0 +1,11 @@
+# EXCEL FILES #
+###############
+*.xls
+*.xlxs
+
+# ACCESS TOKENS #
+#################
+Access_Token
+Client_ID
+Client_Secret
+features
