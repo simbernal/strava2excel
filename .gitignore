@@ -9,3 +9,8 @@ Access_Token
 Client_ID
 Client_Secret
 features
+
+# OTHER TEST FILES #
+####################
+api_tests.py
+
