@@ -121,7 +121,7 @@ def _get_activity_info(client, activity, cols):
         vals['Total Elevation Gain'] = float(activity.total_elevation_gain)
     #vals['Elevation High'] = activity.elev_high
     #vals['Elevation Low'] = activity.elev_low
-
+    
     if 'Gear' in cols:
         gear = activity.gear_id
         if gear != None:
