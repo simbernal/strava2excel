@@ -20,28 +20,16 @@
     <favorites_list name="Strava_to_Excel" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.5805648">
       <split-first>
         <leaf>
           <file leaf-file-name="strava2excel.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/strava2excel.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="2.9609544">
-                  <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+                <state vertical-scroll-proportion="0.3265306">
+                  <caret line="127" column="53" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="53" />
                   <folding>
                     <element signature="e#29#48#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="api_tests.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/api_tests.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#29#45#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -51,13 +39,13 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="api_tests.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/api_tests.py">
+          <file leaf-file-name="strava2excel.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/strava2excel.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="1.3665943">
-                  <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+                <state vertical-scroll-proportion="4.2244897">
+                  <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
                   <folding>
-                    <element signature="e#29#45#0" expanded="true" />
+                    <element signature="e#29#48#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -327,16 +315,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="23" width="1389" height="877" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982001" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13318935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39480197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3589109" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -375,26 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="e#29#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="e#29#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/strava2excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -405,20 +373,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api_tests.py">
+    <entry file="file://$USER_HOME$/Library/Python/3.4/lib/python/site-packages/pandas/indexes/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="e#29#45#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.4954792">
+          <caret line="1946" column="0" selection-start-line="1946" selection-start-column="0" selection-end-line="1946" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/strava2excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.9609544">
-          <caret line="91" column="10" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.3265306">
+          <caret line="127" column="53" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="53" />
           <folding>
             <element signature="e#29#48#0" expanded="true" />
           </folding>
