@@ -8,9 +8,8 @@
 Access_Token
 Client_ID
 Client_Secret
-features
 
-# OTHER TEST FILES #
-####################
+# OTHER FILES #
+###############
 api_tests.py
-
+features
